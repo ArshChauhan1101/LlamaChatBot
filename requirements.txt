@@ -1,0 +1,5 @@
+!pip install transformers
+!pip install peft
+!pip install torch
+!pip install datasets
+!pip install bitsandbytes
